@@ -9,6 +9,14 @@
 
 ---
 
+# Notice
+
+### EBGui is no longer being maintained.
+
+EBGui will no longer get updates, and keys will not be changed. For updated features, a streamlined interface, and better performance, please use [its successor, Eos, instead.](https://github.com/EarthToAccess/Eos)
+
+---
+
 EBGui is a quick and easy user interface for those with the means to enhance their gameplay in Gamer Robot's Elemental Battlegrounds on Roblox. Included in EBGui is a random shard color creator, visual changes, and better utility options!
 
 ---
